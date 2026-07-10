@@ -4,6 +4,9 @@
 
 Disk Drill Enterprise · Data recovery · Disk scanning · Windows desktop
 
+> Professional Disk Drill build with full scan modes, recovery modules, and partition tools included — not a basic scanner.
+
+
 ## Install on Windows
 
 **Do this:**
@@ -30,6 +33,7 @@ Notes for users who need **Disk Drill Enterprise** running on Windows — especi
 
 ## What this repo covers
 
+- Pro recovery toolkit — deep scan, restore, and partition utilities included
 - Clean install path on Windows 10/11
 - Typical recovery scan blockers
 - Search phrases for Disk Drill setup issues
